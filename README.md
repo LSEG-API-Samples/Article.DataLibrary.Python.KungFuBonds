@@ -1,4 +1,4 @@
-To see Jupyter Notebook file with plot and graph output, [Click here to view the notebook via Jupyter Notebook viewer](https://nbviewer.org/github/Refinitiv-API-Samples/Article.RDP.Python.KungFuBonds/blob/main/kung-fu-bonds-rdp-libraries-search-2022.ipynb)
+To see Jupyter Notebook file with plot and graph output, [Click here to view the notebook via Jupyter Notebook viewer](https://nbviewer.org/github/Refinitiv-API-Samples/Article.RDP.Python.KungFuBonds/blob/main/kung-fu-bonds-rdp-libraries-search.ipynb)
 # Searching for KungFu Bonds (Chinese-issued U.S. dollars bonds) with RDP Libraries - Search function
 Due to Greater Bay Area (GBA) has a lot of population (86M) and huge number of GDP ($1.6T), there’s a huge potential of this market with investment opportunities across multiple asset classes and propositions. However, the ability to identify the exact investment opportunities and the consolidated source of GBA data isn’t directly accessed in Eikon Application/Refinitiv workspace yet
 
